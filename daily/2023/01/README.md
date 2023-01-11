@@ -12,3 +12,6 @@
 - [2023-01-08](./08/README.md) 循环 defer
 - [2023-01-09](./09/README.md) 异常 defer
 - [2023-01-10](./10/README.md) map
+- [2023-01-11](./11/README.md) slice append
+- [2023-01-12](./12/README.md) map 线程安全
+
