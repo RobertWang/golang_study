@@ -14,4 +14,5 @@
 - [2023-01-10](./10/README.md) map
 - [2023-01-11](./11/README.md) slice append
 - [2023-01-12](./12/README.md) map 线程安全
+- [2023-01-13](./13/README.md) func 多返回值
 
