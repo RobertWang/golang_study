@@ -36,8 +36,9 @@ A：Hi All；B：Hi go All；C：Hi；D：go All
 
 这道题目答对的人蛮多的：60%。不管你是答对还是答错，如果最后再加一行代码：fmt.Println(a("All"))，它输出什么？想看看你是不是蒙对了。（提示：你可以输出 t 的地址，看看是什么情况。）
 
+
 <details>
-<summary>自测结果</summary>
+<summary>自测结果：</summary>
 <div>
 
 - a: 0xc000012028
@@ -46,4 +47,4 @@ A：Hi All；B：Hi go All；C：Hi；D：go All
 - Hi go All
 
 </div>
-<details>
+</details>
