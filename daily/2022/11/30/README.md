@@ -43,12 +43,8 @@ func main() {
 ```
 
 
-<font color="white">
 <details>
 <summary>答案解析：</summary>
-
 参考答案及解析：1 5 1。
-
 知识点：defer、返回值。
 </details>
-</font>
