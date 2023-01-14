@@ -43,6 +43,7 @@ func main() {
 ```
 
 
+<font color="white">
 <details>
 <summary>答案解析：</summary>
 
@@ -50,3 +51,4 @@ func main() {
 
 知识点：defer、返回值。
 </details>
+</font>
