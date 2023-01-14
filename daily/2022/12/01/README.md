@@ -38,9 +38,12 @@ A：Hi All；B：Hi go All；C：Hi；D：go All
 
 <details>
 <summary>自测结果</summary>
+<div>
 
 a: 0xc000012028
 b: 0xc000012038
 Hi All
 Hi go All
+
+</div>
 <details>

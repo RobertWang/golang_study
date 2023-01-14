@@ -30,8 +30,11 @@ func main() {
 
 <details>
 <summary>答案解析：</summary>
+<div>
 
 参考答案及解析：2 处有语法问题。
 
 golang 的字符串类型是不能赋值 nil 的，也不能跟 nil 比较。
+
+</div>
 </details>

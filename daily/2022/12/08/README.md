@@ -27,6 +27,8 @@ C: 45.2
 
 <details>
 <summary>答案解析：</summary>
+<div>
+
 正确答案：C。
 
 本题涉及到常量表达式的一个知识点。
@@ -86,4 +88,5 @@ var ans float64 = 15 + 25 + 5.2
 
 答案解析来自：https://polarisxu.studygolang.com/posts/go/action/weekly-question-94/
 
+</div>
 </details>

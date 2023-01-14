@@ -45,6 +45,7 @@ func main() {
 
 <details>
 <summary>答案解析：</summary>
+<div>
 
 参考答案及解析：29 29 28。变量 person 是一个指针变量 。
 
@@ -53,4 +54,5 @@ func main() {
 3. 很简单，闭包引用，输出 29；
 又由于 defer 的执行顺序为先进后出，即 3 2 1，所以输出 29 29 28。
 
+</div>
 </details>
