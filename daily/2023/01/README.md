@@ -17,4 +17,5 @@
 - [2023-01-13](./13/README.md) func 多返回值
 - [2023-01-14](./14/README.md) map 取地址
 - [2023-01-15](./15/README.md) map 相等判断
+- [2023-01-16](./16/README.md) struct
 
