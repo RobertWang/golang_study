@@ -63,5 +63,31 @@ func (l Lamp) Off() {
 答案解析来源：[空 struct{} 的用途](https://geektutu.com/post/qa-golang-1.html#Q16-%E7%A9%BA-struct-%E7%9A%84%E7%94%A8%E9%80%94)
 
 
+### 9楼
+
+- 空 struct{} 的用途：占用的空间是 0，可以节省内存，一般作为占位符使用，表明这里并不需要一个值。
+- 使用 map 表示集合时，只关注 key，value 可以使用 struct{} 作为占位符。
+- 使用信道(channel)控制并发时，我们只是需要一个信号
+- 声明只包含方法的结构体。
+
+
+### 13楼
+
+(发送信息的)这样才对
+
+```golang
+func main() {
+    ch := make(chan struct{})
+    go func() {
+       // do something
+        <-ch
+    }()
+    ch <- struct{}{}
+    // ...
+}
+```
+
+
+
 </div>
 </details>
