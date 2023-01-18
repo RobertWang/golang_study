@@ -19,3 +19,4 @@
 - [2023-01-15](./15/README.md) map 相等判断
 - [2023-01-16](./16/README.md) struct
 - [2023-01-17](./17/README.md) init
+- [2023-01-18](./18/README.md) new make
