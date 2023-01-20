@@ -21,3 +21,5 @@
 - [2023-01-17](./17/README.md) init
 - [2023-01-18](./18/README.md) new make
 - [2023-01-19](./19/README.md) new make
+- [2023-01-20](./20/README.md) slice append
+- [2023-01-21](./21/README.md) bit
