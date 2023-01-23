@@ -23,3 +23,6 @@
 - [2023-01-19](./19/README.md) new make
 - [2023-01-20](./20/README.md) slice append
 - [2023-01-21](./21/README.md) bit
+- [2023-01-22](./22/README.md) 接口 内存分配
+- [2023-01-23](./23/README.md) 常量 len 位移运算
+
