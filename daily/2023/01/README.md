@@ -28,3 +28,5 @@
 - [2023-01-24](./24/README.md) 结构体比较
 - [2023-01-25](./25/README.md) 常量
 - [2023-01-26](./26/README.md) slice 初始化 append
+- [2023-01-27](./27/README.md) slice append
+- [2023-01-28](./28/README.md) slice append

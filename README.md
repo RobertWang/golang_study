@@ -21,3 +21,7 @@ golang 基础学习仓库
 
 > 整理 LeeCode 试题
 
+## Golang 设计模式
+
+- [ssbandjl/golang-design-pattern - github](https://github.com/ssbandjl/golang-design-pattern)
+- [senghoo/golang-design-pattern - github](https://github.com/senghoo/golang-design-pattern)
