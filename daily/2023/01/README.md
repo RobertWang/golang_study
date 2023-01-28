@@ -30,3 +30,4 @@
 - [2023-01-26](./26/README.md) slice 初始化 append
 - [2023-01-27](./27/README.md) slice append
 - [2023-01-28](./28/README.md) slice append
+- [2023-01-29](./29/README.md) 变量声明
