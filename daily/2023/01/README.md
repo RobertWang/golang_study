@@ -31,3 +31,5 @@
 - [2023-01-27](./27/README.md) slice append
 - [2023-01-28](./28/README.md) slice append
 - [2023-01-29](./29/README.md) 变量声明
+- [2023-01-30](./30/README.md) 结构体指针使用
+- [2023-01-31](./31/README.md) 类型别名
