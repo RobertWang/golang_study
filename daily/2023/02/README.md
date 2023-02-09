@@ -11,3 +11,4 @@
 - [2023-02-07](./07/README.md) interface 接口底层类型问题
 - [2023-02-08](./08/README.md) encoding/json 导出
 - [2023-02-09](./09/README.md) 类型 数据溢出 补码
+- [2023-02-10](./10/README.md) init
