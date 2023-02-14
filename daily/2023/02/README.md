@@ -14,3 +14,5 @@
 - [2023-02-10](./10/README.md) init
 - [2023-02-11](./11/README.md) `Go 中 函数 是 一等公民`
 - [2023-02-12](./12/README.md) 类型断言
+- [2023-02-13](./13/README.md) channel 延迟关闭
+- [2023-02-14](./14/README.md) WaitGroup
