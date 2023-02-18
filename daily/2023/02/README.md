@@ -18,3 +18,5 @@
 - [2023-02-14](./14/README.md) WaitGroup
 - [2023-02-15](./15/README.md) channel
 - [2023-02-16](./16/README.md) map 0值
+- [2023-02-17](./17/README.md) 可变参数函数
+- [2023-02-18](./18/README.md) 强类型
