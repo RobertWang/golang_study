@@ -20,3 +20,6 @@
 - [2023-02-16](./16/README.md) map 0值
 - [2023-02-17](./17/README.md) 可变参数函数
 - [2023-02-18](./18/README.md) 强类型
+- [2023-02-19](./19/README.md) json slice
+- [2023-02-20](./20/README.md) 数据竞争 main goroutine和其他goroutine调度问题 局部变量问题
+
