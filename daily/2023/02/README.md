@@ -1,4 +1,4 @@
-# 2023年02月份
+# 2023 年 02 月份
 
 ## 索引
 
@@ -17,9 +17,12 @@
 - [2023-02-13](./13/README.md) channel 延迟关闭
 - [2023-02-14](./14/README.md) WaitGroup
 - [2023-02-15](./15/README.md) channel
-- [2023-02-16](./16/README.md) map 0值
+- [2023-02-16](./16/README.md) map 0 值
 - [2023-02-17](./17/README.md) 可变参数函数
 - [2023-02-18](./18/README.md) 强类型
 - [2023-02-19](./19/README.md) json slice
-- [2023-02-20](./20/README.md) 数据竞争 main goroutine和其他goroutine调度问题 局部变量问题
-
+- [2023-02-20](./20/README.md) 数据竞争 main goroutine 和其他 goroutine 调度问题 局部变量问题
+- [2023-02-21](#) `空缺`
+- [2023-02-22](#) `空缺`
+- [2023-02-23](./23/README.md) 数据类型
+- [2023-02-24](./24/README.md) cap
