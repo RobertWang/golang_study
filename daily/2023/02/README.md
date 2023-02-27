@@ -28,3 +28,4 @@
 - [2023-02-24](./24/README.md) cap
 - [2023-02-25](./25/README.md) interface 零值
 - [2023-02-26](./26/README.md) map 零值
+- [2023-02-27](./27/README.md) 符号输出
