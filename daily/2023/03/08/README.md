@@ -101,5 +101,25 @@ main.main()
 exit status 2
 ```
 
+---
+
+### 3楼
+
+<-ch1 先执行再 调起
+
+运行时死锁
+
+### 14楼
+
+函数调用之前，实参就被求值好了。
+
+因此这道题目 go fmt.Println(<-ch1) 语句中的 <-ch1 是在 main goroutine 中求值的。这相当于一个无缓冲的 chan，发送和接收操作都在一个 goroutine 中（main goroutine）进行，因此造成死锁。
+
+
+### 31楼
+
+C：运行时死锁 go func(){fmt.Println(<-ch1)}() 就对了
+
+
 </div>
 </details>
