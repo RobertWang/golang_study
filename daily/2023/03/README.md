@@ -24,5 +24,9 @@
 - [2023-03-20](./20/README.md) 类型断言
 - [2023-03-21](./21/README.md) defer 返回值
 - [2023-03-22](./22/README.md) 闭包
-
+- [2023-03-23](./23/README.md) defer
+- [2023-03-24](./24/README.md) defer
+- [2023-03-25](./25/README.md) defer
+- [2023-03-26](./26/README.md) slice
+- [2023-03-27](./27/README.md) interface 指针
 
