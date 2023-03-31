@@ -29,4 +29,7 @@
 - [2023-03-25](./25/README.md) defer
 - [2023-03-26](./26/README.md) slice
 - [2023-03-27](./27/README.md) interface 指针
-
+- [2023-03-28](./28/README.md) struct 指针
+- [2023-03-29](./29/README.md) 常量表达式
+- [2023-03-30](./30/README.md) string
+- [2023-03-31](./31/README.md) defer
