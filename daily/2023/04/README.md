@@ -11,6 +11,7 @@
 - [2023-04-07](./07/README.md) 接口实现
 - [2023-04-08](./08/README.md) const iota
 - [2023-04-09](#./09/README.md) `缺失`
-- [2023-04-10](#./10/README.md) `缺失`
-- [2023-04-11](#./11/README.md) `缺失`
+- [2023-04-10](./10/README.md) iota String()
+- [2023-04-11](./11/README.md) map
 - [2023-04-12](./12/README.md) chan deadlock
+- [2023-04-13](./13/README.md) 类型比较
