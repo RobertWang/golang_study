@@ -23,3 +23,4 @@
 - [2023-04-21](./21/README.md) array
 - [2023-04-22](./22/README.md) range
 - [2023-04-23](./23/README.md) map
+- [2023-04-24](./24/README.md) gorountine
