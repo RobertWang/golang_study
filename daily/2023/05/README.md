@@ -5,3 +5,4 @@
 - [2023-05-01](./01/README.md) slice
 - [2023-05-02](./02/README.md) map
 - [2023-05-03](./03/README.md) slice
+- [2023-05-04](./04/README.md) map
