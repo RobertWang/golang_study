@@ -12,3 +12,4 @@
 - [2023-05-08](./08/README.md) struct
 - [2023-05-09](./09/README.md) init
 - [2023-05-10](./10/README.md) new make
+- [2023-05-11](./11/README.md) new slice pointer append
