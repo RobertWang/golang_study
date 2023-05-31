@@ -31,3 +31,5 @@
 - [2023-05-27](./27/README.md) iota
 - [2023-05-28](./28/README.md) nil 赋值
 - [2023-05-29](./29/README.md) 继承 多态
+- [2023-05-30](./30/README.md) interface
+- [2023-05-31](./31/README.md) struct json embed
