@@ -9,4 +9,5 @@
 - [2023-06-05](./05/README.md) channel
 - [2023-06-06](./06/README.md) WaitGroup
 - [2023-06-07](./07/README.md) channel
+- [2023-06-08](./08/README.md) map
 
