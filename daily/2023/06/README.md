@@ -14,4 +14,5 @@
 - [2023-06-10](./10/README.md) 类型计算
 - [2023-06-11](./11/README.md) json解析 slice
 - [2023-06-12](./12/README.md) 数据竞争
+- [2023-06-13](./13/README.md) struct interface
 
