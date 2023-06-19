@@ -19,4 +19,5 @@
 - [2023-06-15](./15/README.md) array
 - [2023-06-16](./16/README.md) cap
 - [2023-06-17](./17/README.md) interface
-
+- [2023-06-18](./18/README.md) map
+- [2023-06-19](./19/README.md) int
