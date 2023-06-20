@@ -21,3 +21,4 @@
 - [2023-06-17](./17/README.md) interface
 - [2023-06-18](./18/README.md) map
 - [2023-06-19](./19/README.md) int
+- [2023-06-20](./20/README.md) struct interface
