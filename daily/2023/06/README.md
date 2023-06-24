@@ -25,3 +25,4 @@
 - [2023-06-21](./21/README.md) var定义
 - [2023-06-22](./22/README.md) struct json导出
 - [2023-06-23](./23/README.md) defer
+- [2023-06-24](./24/README.md) struct嵌套
