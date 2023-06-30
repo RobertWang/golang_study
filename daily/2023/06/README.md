@@ -31,3 +31,4 @@
 - [2023-06-27](./27/README.md) 可变函数
 - [2023-06-28](./28/README.md) defer channel
 - [2023-06-29](./29/README.md) slice
+- [2023-06-30](./30/README.md) nil
