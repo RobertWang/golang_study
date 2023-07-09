@@ -10,3 +10,4 @@
 - [2023-07-06](./06/README.md) int operator Go101
 - [2023-07-07](./07/README.md) type 32bit
 - [2023-07-08](./08/README.md) var
+- [2023-07-09](./09/README.md) defer
