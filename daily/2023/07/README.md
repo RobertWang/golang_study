@@ -20,3 +20,4 @@
 - [2023-07-16](./16/README.md) slice
 - [2023-07-17](./17/README.md) pointer
 - [2023-07-18](./18/README.md) struct
+- [2023-07-19](./19/README.md) float type
