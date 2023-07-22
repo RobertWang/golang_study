@@ -23,3 +23,4 @@
 - [2023-07-19](./19/README.md) float type
 - [2023-07-20](./20/README.md) string
 - [2023-07-21](./21/README.md) defer
+- [2023-07-22](./22/README.md) slice
