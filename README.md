@@ -19,6 +19,9 @@ golang 基础学习仓库
 - [Go 程序员面试笔试宝典](https://golang.design/go-questions/)
 - [Go 语言笔试面试题汇总](https://geektutu.com/post/qa-golang.html) by [极客兔兔](https://geektutu.com/)
 
+## golang 电子书
+
+- [Go 语言 101](https://gfw.go101.org/article/101.html)
 
 ## 算法题
 
