@@ -27,3 +27,4 @@
 - [2023-07-23](./23/README.md) short_var_declaration : 参考 [对一段有关Go Code Block和变量作用域的代码的简要分析](https://studygolang.com/articles/35587)
 - [2023-07-24](./24/README.md) map
 - [2023-07-25](./25/README.md) defer
+- [2023-07-26](./26/README.md) len
