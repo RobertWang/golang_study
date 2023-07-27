@@ -28,3 +28,4 @@
 - [2023-07-24](./24/README.md) map
 - [2023-07-25](./25/README.md) defer
 - [2023-07-26](./26/README.md) len
+- [2023-07-27](./27/README.md) type function
