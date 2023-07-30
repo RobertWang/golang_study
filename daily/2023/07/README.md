@@ -31,3 +31,4 @@
 - [2023-07-27](./27/README.md) type function
 - [2023-07-28](./28/README.md) interface
 - [2023-07-29](./29/README.md) iota
+- [2023-07-30](./30/README.md) nil struct interface
