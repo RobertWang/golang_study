@@ -10,7 +10,7 @@
 - D. 只有在 case 中明确添加 fallthrough 关键字，才会继续执行紧跟的下一个 case；
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：BD。

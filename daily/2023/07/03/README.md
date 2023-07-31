@@ -14,7 +14,7 @@ func main() {
 ```
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：a、b、c 的长度和容量分别是 0 3、2 3、1 2。

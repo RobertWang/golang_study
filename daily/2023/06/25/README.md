@@ -17,7 +17,7 @@ func main() {
 - C. compilation error
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考代码及解析：C。

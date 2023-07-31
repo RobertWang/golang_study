@@ -5,7 +5,7 @@
 new() 与 make() 的区别
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 new(T) 和 make(T,args) 是 Go 语言内建函数，用来分配内存，但适用的类型不同。

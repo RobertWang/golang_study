@@ -29,7 +29,7 @@ func main() {
 这里涉及到两个知识点，在 Go 语言规范中都有明确的说明，但确实很细节。你答对了吗？原因知晓吗？
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 ### 答案是 4 0（即选 C）。

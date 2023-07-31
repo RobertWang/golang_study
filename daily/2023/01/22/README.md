@@ -14,7 +14,7 @@ var i interface{} = a
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 在 Go 中，接口被实现为一对指针（请参阅 Russ Cox 的 Go 数据结构：[接口](https://research.swtch.com/interfaces）：指向有关类型信息的指针和指向值的指针。可以简单的表示为：

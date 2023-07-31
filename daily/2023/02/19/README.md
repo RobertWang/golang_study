@@ -38,7 +38,7 @@ func main() {
 这道题的正确率只有 20%。
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 

@@ -5,7 +5,7 @@
 如何确认两个 map 是否相等？
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 map 深度相等的条件：

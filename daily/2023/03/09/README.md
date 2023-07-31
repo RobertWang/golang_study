@@ -42,7 +42,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 第 1 题是 Go 语言爱好者周刊[第 87](https://mp.weixin.qq.com/s/4HI78Yd1ENVFCWHCESlPBg)的题目。
@@ -230,7 +230,7 @@ func main() {
 - C：运行时死锁
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 这是 [Go语言爱好者周刊第 78 期](https://mp.weixin.qq.com/s/kma8hvdLVPIkZnKw_MaSKg) 的一道题。当时正确率有点低，才 35%，可见不少人的基础还是不扎实。

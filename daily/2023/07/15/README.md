@@ -32,7 +32,7 @@ func main() {
 同 [2023-07-13](../13/README.md) 的题目
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：29 28 28。

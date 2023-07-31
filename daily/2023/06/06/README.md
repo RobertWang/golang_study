@@ -29,7 +29,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 输出结果不唯一，代码存在风险, 所有 go 语句未必都能执行到。

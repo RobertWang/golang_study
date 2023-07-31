@@ -5,7 +5,7 @@
 空 struct{} 占多少空间？有什么用途？
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 使用空结构体 struct{} 可以节省内存，一般作为占位符使用，表明这里并不需要一个值。

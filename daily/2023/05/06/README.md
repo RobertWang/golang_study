@@ -17,7 +17,7 @@ func main() {
 ```
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 这个问题，相当于问：可以对 map 的元素直接取地址吗？

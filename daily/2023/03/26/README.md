@@ -10,7 +10,7 @@ B. a := []int{}
 ```
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：第一种切片声明不会分配内存，优先选择。

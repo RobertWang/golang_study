@@ -20,7 +20,7 @@ func main()  {
 ```
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案：编译通过，输出：0 2 zz zz 5

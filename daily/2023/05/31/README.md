@@ -34,7 +34,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 这是来自[《Go语言爱好者周刊第74期》](https://mp.weixin.qq.com/s/oDMSFjjzGbu7kkERM8ilGw)的题目，正确率 12%。

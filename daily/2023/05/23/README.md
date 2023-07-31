@@ -21,7 +21,7 @@ func main() {
 ```
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案：编译不通过，cannot use i (type int) as type MyInt1 in assignment

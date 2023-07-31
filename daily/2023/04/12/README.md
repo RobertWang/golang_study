@@ -30,7 +30,7 @@ func main() {
 - B：panic
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 这是我根据火丁笔记发的一篇文章：[《一个 select 死锁问题》](https://blog.huoding.com/2021/08/29/947) 进行的修改，以便更好理解。

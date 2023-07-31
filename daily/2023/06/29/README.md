@@ -44,7 +44,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 第 1 题是 Go 语言爱好者周刊第 [87的题目](https://mp.weixin.qq.com/s/4HI78Yd1ENVFCWHCESlPBg)。

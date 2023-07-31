@@ -20,7 +20,7 @@ func add(args ...int) int {
 - D. add([]int{1, 3, 7}...)
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：ABD。

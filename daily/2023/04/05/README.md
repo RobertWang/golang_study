@@ -22,7 +22,7 @@ func main() {
 - D：0
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 正确率只有 16%。

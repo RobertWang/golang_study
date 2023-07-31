@@ -37,7 +37,7 @@ func main() {
 这道题目答对的人蛮多的：60%。不管你是答对还是答错，如果最后再加一行代码：fmt.Println(a("All"))，它输出什么？想看看你是不是蒙对了。（提示：你可以输出 t 的地址，看看是什么情况。）
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 ### 01 什么是闭包

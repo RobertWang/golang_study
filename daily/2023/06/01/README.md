@@ -33,7 +33,7 @@ func main() {
 它们分别输出什么？请写出你的答案，能解释原因最好。
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 >   (与 2023-02-09 的题重复)

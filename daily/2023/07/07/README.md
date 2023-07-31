@@ -16,7 +16,7 @@
 如果面试时问这道题，你需要想想面试官想考察你什么。
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 先不直接给答案，看讲解。

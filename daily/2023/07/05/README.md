@@ -40,7 +40,7 @@ func main() {
 >	与 [2023-07-02](../02/README.md) 相似，注意最后的两个 `fmt.Println` 中的调用
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 参考答案及解析：B。

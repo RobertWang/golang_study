@@ -34,7 +34,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 这是站长在去年双节期间公众号「polarisxu」上发布的题目。

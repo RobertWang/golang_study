@@ -35,7 +35,7 @@ func main() {
 
 
 <details>
-<summary>答案解析：</summary>
+<summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
 
 正确答案 B，但为什么呢？大家不用在乎是不是刁钻的题目，通过题目能学到知识才是最重要的。
