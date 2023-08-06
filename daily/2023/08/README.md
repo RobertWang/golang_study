@@ -7,3 +7,4 @@
 - [2023-08-03](./03/README.md) slice
 - [2023-08-04](./04/README.md) scope
 - [2023-08-05](./05/README.md) slice for range
+- [2023-08-06](./06/README.md) for range gorountine
