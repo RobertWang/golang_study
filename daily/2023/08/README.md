@@ -17,3 +17,4 @@
 - [2023-08-13](./13/README.md) channel
 - [2023-08-14](./14/README.md) loop
 - [2023-08-15](./15/README.md) var
+- [2023-08-16](./16/README.md) type
