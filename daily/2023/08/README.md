@@ -18,3 +18,4 @@
 - [2023-08-14](./14/README.md) loop
 - [2023-08-15](./15/README.md) var
 - [2023-08-16](./16/README.md) type
+- [2023-08-17](./17/README.md) switch
