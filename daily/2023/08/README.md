@@ -19,3 +19,5 @@
 - [2023-08-15](./15/README.md) var
 - [2023-08-16](./16/README.md) type
 - [2023-08-17](./17/README.md) switch
+- [2023-08-18](./18/README.md) 类型断言 方法集
+- [2023-08-19](./19/README.md) range
