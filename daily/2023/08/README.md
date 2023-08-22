@@ -23,3 +23,4 @@
 - [2023-08-19](./19/README.md) range
 - [2023-08-20](./20/README.md) defer panic
 - [2023-08-21](./21/README.md) map
+- [2023-08-22](./22/README.md) make slice
