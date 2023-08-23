@@ -20,9 +20,6 @@ func main() {
 }
 ```
 
-[ 1 2 3 ]
-[ 1 2 3 4 ]
-
 <details>
 <summary style="cursor: pointer">🔑 答案解析：</summary>
 <div>
