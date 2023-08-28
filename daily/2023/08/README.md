@@ -29,3 +29,4 @@
 - [2023-08-25](./25/README.md) map
 - [2023-08-26](./26/README.md) map
 - [2023-08-27](./27/README.md) struct{}
+- [2023-08-28](./28/README.md) init()
