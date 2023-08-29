@@ -30,3 +30,5 @@
 - [2023-08-26](./26/README.md) map
 - [2023-08-27](./27/README.md) struct{}
 - [2023-08-28](./28/README.md) init()
+- [2023-08-29](./29/README.md) new make
+- [2023-08-30](./30/README.md) new
