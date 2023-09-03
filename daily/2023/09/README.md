@@ -4,3 +4,4 @@
 
 - [2023-09-01](./01/README.md) operator type
 - [2023-09-02](./02/README.md) allocation optimize
+- [2023-09-03](./03/README.md) const len bit type
