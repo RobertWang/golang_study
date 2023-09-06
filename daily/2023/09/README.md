@@ -7,3 +7,4 @@
 - [2023-09-03](./03/README.md) const len bit type
 - [2023-09-04](./04/README.md) compare struct
 - [2023-09-05](./05/README.md) const
+- [2023-09-06](./06/README.md) append
