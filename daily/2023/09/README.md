@@ -8,3 +8,4 @@
 - [2023-09-04](./04/README.md) compare struct
 - [2023-09-05](./05/README.md) const
 - [2023-09-06](./06/README.md) append
+- [2023-09-07](./07/README.md) slice append
