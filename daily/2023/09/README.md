@@ -11,3 +11,4 @@
 - [2023-09-07](./07/README.md) slice append
 - [2023-09-08](./08/README.md) slice append
 - [2023-09-09](./09/README.md) define
+- [2023-09-10](./10/README.md) pointer
