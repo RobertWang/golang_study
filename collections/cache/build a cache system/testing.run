@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd cache
+go test -v
+cd -
