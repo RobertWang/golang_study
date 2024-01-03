@@ -28,9 +28,9 @@ func get_task_data(filename string) (data []int, err error) {
 	reader := bufio.NewReader(file)
 	decoder := json.NewDecoder(reader)
 	if err := decoder.Decode(&data); err == nil {
-		fmt.Println("读取数据成功", data)
+		debug_log("读取数据成功", data)
 	} else {
-		fmt.Println("读取数据失败", err)
+		debug_log("读取数据失败", err)
 	}
 	return data, err
 }
@@ -40,6 +40,11 @@ func main() {
 	st, _ := get_task_data(task_file)
 	fmt.Println("初始数据", st)
 
+	solution(st)
+}
+
+// 解决方案
+func solution(st []int) {
 	sort.Sort(sort.IntSlice(st))
 	debug_log("第一次排序后的内容", st)
 
@@ -71,5 +76,4 @@ func main() {
 	} else {
 		fmt.Println("最后剩下的石头重量为", st[0])
 	}
-
 }
