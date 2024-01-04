@@ -36,44 +36,44 @@ func get_task_data(filename string) (data []int, err error) {
 }
 
 func main() {
-	// st := []int{2, 7, 4, 1, 8, 1}
-	st, _ := get_task_data(task_file)
-	fmt.Println("初始数据", st)
+	// stones := []int{2, 7, 4, 1, 8, 1}
+	stones, _ := get_task_data(task_file)
+	fmt.Println("初始数据", stones)
 
-	solution(st)
+	solution(stones)
 }
 
 // 解决方案
-func solution(st []int) {
-	sort.Sort(sort.IntSlice(st))
-	debug_log("第一次排序后的内容", st)
+func solution(stones []int) {
+	sort.Sort(sort.IntSlice(stones))
+	debug_log("第一次排序后的内容", stones)
 
 	times := 0
-	for len(st) > 1 {
+	for len(stones) > 1 {
 		times = times + 1
 		// 判断最大的数字 x 与 第2大的数字 y 是否相同
-		// x := st[len(st)-1]
-		// y := st[len(st)-2]
-		debug_log("第", times, "轮 : x =", st[len(st)-1], ", y =", st[len(st)-2])
-		if st[len(st)-1] > st[len(st)-2] {
+		// x := stones[len(stones)-1]
+		// y := stones[len(stones)-2]
+		debug_log("第", times, "轮 : x =", stones[len(stones)-1], ", y =", stones[len(stones)-2])
+		if stones[len(stones)-1] > stones[len(stones)-2] {
 			// 不相同，则第2大的数字变更为 x - y
-			st[len(st)-2] = st[len(st)-1] - st[len(st)-2]
-			st = st[:len(st)-1]
+			stones[len(stones)-2] = stones[len(stones)-1] - stones[len(stones)-2]
+			stones = stones[:len(stones)-1]
 			// 重新排序
-			sort.Sort(sort.IntSlice(st))
+			sort.Sort(sort.IntSlice(stones))
 			debug_log("第", times, "轮 x > y")
 		} else {
 			// 如相同，则 2 个数字全都清除
-			st = st[:len(st)-2]
+			stones = stones[:len(stones)-2]
 			debug_log("第", times, "轮 x == y")
 		}
-		debug_log("第", times, "轮操作后的数组", st)
+		debug_log("第", times, "轮操作后的数组", stones)
 	}
 
-	// fmt.Println("结果", st)
-	if len(st) == 0 {
+	// fmt.Println("结果", stones)
+	if len(stones) == 0 {
 		fmt.Println("最终没有石头剩下")
 	} else {
-		fmt.Println("最后剩下的石头重量为", st[0])
+		fmt.Println("最后剩下的石头重量为", stones[0])
 	}
 }

@@ -1,4 +1,6 @@
-[Python 每日一练-LeetCode-数组练习-最大容积计算](https://www.bilibili.com/video/BV1EC4y1S7cq/)
+# 2024-01-03 练习题
+
+> 来源 : [Python 每日一练-LeetCode-数组练习-最大容积计算](https://www.bilibili.com/video/BV1EC4y1S7cq/)
 
 ## 题目说明
 
@@ -41,6 +43,44 @@
 7. 两个指针指向的数字中`较小值 * 指针之间的距离`决定的。
 
 ## 参考代码
+
+### Golang 代码实现
+
+```golang
+import "fmt"
+// 入口
+func main() {
+	heights := []int{2, 7, 4, 1, 8, 1}
+	fmt.Println("初始数据", heights)
+
+	solution(heights)
+}
+
+func min(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
+}
+
+// 解决方案
+func solution(heights []int) {
+	left, right := 0, len(heights)-1
+	max_vol := 0
+	for left < right {
+		vol := min(heights[left], heights[right]) * (right - left)
+		if vol > max_vol {
+			max_vol = vol
+		}
+		if heights[left] < heights[right] {
+			left++
+		} else {
+			right--
+		}
+	}
+	fmt.Println("最大容量", max_vol)
+}
+```
 
 ### Python 代码实现
 
