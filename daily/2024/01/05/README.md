@@ -128,7 +128,7 @@ func solution(persons [][]int) {
 
 ```python
 from collections import Counter
-trust = [[1,3][14],[2,3][2.4].[4,3]]
+trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]
 n = 4
 
 inDegrees = Counter(y for x,y in trust)
