@@ -11,3 +11,6 @@
 - [2024-01-04](./04/README.md) (_来源: 2024-01-04 [Python 每日一练-LeetCode-数组练习-寻找终点站](https://www.bilibili.com/video/BV13e411B78X/)_)
 - [2024-01-05](#) nil 赋值 (与 [2023-05-28](../05/28/README.md) 完全相同，不做收录)
 - [2024-01-05](./05/README.md) (_来源: 2024-01-01 [Python 每日一练-LeetCode-数组练习-寻找小镇法官](https://www.bilibili.com/video/BV1Ya4y1r7UN/)_)
+- [2024-01-06](#) 继承 多态 (与 [2023-05-29](../05/29/README.md) 完全相同，不做收录)
+- [2024-01-06](./06/README.md) (_来源: 2023-12-31 [Python 每日一练-LeetCode-数组练习-最大乘积](https://www.bilibili.com/video/BV1Bg4y117MF/)_)
+- [2024-01-07](#) interface (与 [2023-05-30](../05/30/README.md) 完全相同，不做收录)
