@@ -7,7 +7,6 @@ golang 基础学习仓库
 3. 算法整理
 4. etc...
 
-
 ## 每日一题
 
 #基础 , #面试题
@@ -28,6 +27,10 @@ golang 基础学习仓库
 ### LeeCode
 
 > 整理 LeeCode 试题
+
+参考:
+
+- [笨重小飞像 Applejuan](https://space.bilibili.com/395422352/)@B 站
 
 ## Golang 设计模式
 
