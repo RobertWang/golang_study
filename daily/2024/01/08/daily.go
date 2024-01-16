@@ -17,7 +17,7 @@ type Data struct {
 const task_file string = "task.json"
 
 // 是否输出调试信息
-const debug_mode bool = true
+const debug_mode bool = false
 
 // 输出调试信息
 func debug_log(info ...interface{}) {
@@ -56,8 +56,8 @@ func main() {
 	// 	solution(data.TimeSeries, data.Duration)
 	// }
 
-	data := Data{TimeSeries: []int{1, 2, 4}, Duration: 2}
-	// data, _ := get_task_data(task_file)
+	// data := Data{TimeSeries: []int{1, 2, 4}, Duration: 2}
+	data, _ := get_task_data(task_file)
 	fmt.Println("初始数据", data)
 
 	solution(data.TimeSeries, data.Duration)

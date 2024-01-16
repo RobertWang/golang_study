@@ -24,3 +24,6 @@
 - [2024-01-13](#) channel (与 [2023-06-05](../06/05/README.md) 完全相同，不做收录)
 - [2024-01-14](#) WaitGroup (与 [2023-06-06](../06/06/README.md) 完全相同，不做收录)
 - [2024-01-15](#) channel (与 [2023-06-07](../06/07/README.md) 完全相同，不做收录)
+- [2024-01-16](#) map (与 [2023-06-08](../06/08/README.md) 完全相同，不做收录)
+- [2024-01-15](./15/README.md) (_来源 : 2024-01-15 [Python 每日一练-LeetCode-字符串练习-加密路径](https://www.bilibili.com/video/BV16C4y1k7K2/)_)
+- [2024-01-16](./16/README.md) (_来源 : 2024-01-16 [Python 每日一练-LeetCode-字符串练习-FizzBuzz表达](https://www.bilibili.com/video/BV1qi4y1i7Dw/)_)
