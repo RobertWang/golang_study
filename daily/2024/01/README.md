@@ -30,4 +30,4 @@
 - [2024-01-17](#) 可变参数函数 (与 [2023-06-09](../06/09/README.md) 完全相同，不做收录)
 - [2024-01-17](./17/README.md) (_来源 : 2024-01-17 [Python 每日一练-LeetCode-字符串练习-计算日期天数](https://www.bilibili.com/video/BV1294y1N7id/)_)
 - [2024-01-18](#) 类型计算 (与 [2023-06-10](../06/10/README.md) 完全相同，不做收录)
-- [2024-01-18](./18/README.md) (_来源 : 2024-01-18 [Python 每日一练-LeetCode-字符串练习-加密路径](https://www.bilibili.com/video/BV16C4y1k7K2/)_)
+- [2024-01-18](./18/README.md) (_来源 : 2024-01-18 [Python 每日一练-LeetCode-字符串练习-动态密码](https://www.bilibili.com/video/BV14g4y1m7Yi/)_)
